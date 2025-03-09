@@ -35,11 +35,9 @@ jobs:
           plugin_introduction_title: yes
           plugin_music_token: ${{ secrets.YOUTUBE_MUSIC_TOKENS }}
           plugin_music: yes
-          plugin_music_mode: recent
-          plugin_music_provider: youtube
-          plugin_music_time_range: short
-          plugin_music_played_at: yes
+          plugin_music_mode: top
           plugin_music_limit: 4
+          plugin_music_provider: youtube
           plugin_languages: yes
           # plugin_languages_categories: markup, programming
           plugin_languages_colors: github
