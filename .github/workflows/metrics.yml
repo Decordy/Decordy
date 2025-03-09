@@ -46,5 +46,3 @@ jobs:
           plugin_languages_limit: 16
           plugin_languages_sections: most-used
           plugin_fortune: yes
-        prod:
-          skip: true
