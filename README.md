@@ -12,7 +12,7 @@ Bad mistake...
 
 ---
 
-### AND EVERYTHING I'VE LEARNED
+### AND EVERYTHING I'VE LEARNED (and probably haven't used in a while so I am definitely revising it and forgetting something)
 [![Node.js](https://img.shields.io/badge/Node.js-334155?style=for-the-badge&logo=nodedotjs)](https://nodejs.org)
 [![Bun](https://img.shields.io/badge/Bun-14151a?style=for-the-badge&logo=bun)](https://bun.sh)
 [![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -20,13 +20,12 @@ Bad mistake...
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org)
 [![React](https://img.shields.io/badge/react-1E293B?style=for-the-badge&logo=react)](https://react.dev)
 [![Python](https://img.shields.io/badge/Python-FDE047?style=for-the-badge&logo=python)](https://www.python.org)
-[![dJango](https://img.shields.io/badge/dJango-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com)
-[![Jinja](https://img.shields.io/badge/Jinja-1C1917?style=for-the-badge&logo=jinja&logoColor=B41717)](https://jinja.palletsprojects.com)
 [![MySQL](https://img.shields.io/badge/MySQL-FEFCE8?style=for-the-badge&logo=mysql)](https://www.mysql.com)
 [![Java](https://img.shields.io/badge/Java-60A5FA?style=for-the-badge)](https://www.java.com/)
 [![Lua](https://img.shields.io/badge/Lua-EFF6FF?style=for-the-badge&logo=lua&logoColor=2C2D72)](https://www.lua.org)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F0F9FF?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
 [![Turborepo](https://img.shields.io/badge/Turborepo-0F172A?style=for-the-badge&logo=turborepo)](https://turbo.build/)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 ---
 
